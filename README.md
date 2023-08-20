@@ -1,0 +1,1 @@
+**Foi adicionada uma nova página para detalhamento dos pokemons**
